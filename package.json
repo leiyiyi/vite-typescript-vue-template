@@ -1,0 +1,38 @@
+{
+  "name": "vite-typescript-vue-template",
+  "description": "vt2: a out-of-the-box vue3 template",
+  "version": "1.1.0",
+  "author": "leiyi<leiyibeyond@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sass": "^1.32.8",
+    "vue": "^3.0.7",
+    "vue-router": "^4.0.4",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@typescript-eslint/eslint-plugin": "^4.16.1",
+    "@typescript-eslint/parser": "^4.15.1",
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.7",
+    "eslint": "^7.21.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-vue": "^7.7.0",
+    "typescript": "^4.2.2",
+    "vite": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leiyiyi/vite-typescript-vue-template.git"
+  }
+}

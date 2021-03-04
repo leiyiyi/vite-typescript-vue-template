@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+dist
+dist-ssr
+*.local
+yarn.lock
+package-lock.json
+
+# Editor
+.idea
+#.vscode
